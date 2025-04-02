@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_shared_nav_btns",
+  "info": {
+    "displayName": "NavBtn",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "required": true
+    },
+    "Icon": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Slug": {
+      "type": "string",
+      "required": true,
+      "default": "slutty-puddy",
+      "unique": true
+    }
+  }
+}
