@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_shared_rolling_texts",
+  "info": {
+    "displayName": "Rolling Text"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}

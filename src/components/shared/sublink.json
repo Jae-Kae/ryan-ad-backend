@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_shared_sublinks",
+  "info": {
+    "displayName": "sublink"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "icon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
